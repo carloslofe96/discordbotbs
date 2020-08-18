@@ -52,5 +52,5 @@ async def on_message(message):
 async def torneo():
     on_message()
 
-client.run('NzQzODc4NzY4NDAxMTg2ODE5.XzbFFg.8D8q-IQZPIZpSSaxjz7AEVL61Xo')
+client.run('nada que ver aqui :V')
 
